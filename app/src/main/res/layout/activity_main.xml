@@ -42,7 +42,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:layout_editor_absoluteX="16dp"
-            android:text="dd-mm-yyyy"
+            android:inputType="date"
+            android:hint="dd-mm-yyyy"
             tools:layout_editor_absoluteY="171dp" />
     </com.google.android.material.textfield.TextInputLayout>
 
